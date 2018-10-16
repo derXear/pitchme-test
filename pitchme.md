@@ -1,3 +1,8 @@
+---
+theme : "blood"
+transition: "slide"
+---
+
 # Flux 
 
 An application architecture for React
